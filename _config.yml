@@ -19,13 +19,12 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-keywords: ai consultant, deep learning, nlp, llm, automated planning, corporate training, freelance developer, python, pytorch # Keyword per farti trovare dai recruiter
+keywords: ai consultant, deep learning, nlp, llm, automated planning, corporate training, freelance developer, python, pytorch
 lang: en
-icon: 🧠 # Ho cambiato l'atomo con il cervello (più business-friendly per AI)
+icon: 🧠
 
-# ⚠️ IMPORTANTE: Sostituisci la riga sotto se il tuo repo non si chiama esattamente lorenzoserina.github.io
 url: https://lorenzoserina.github.io
-baseurl: "" # Lasciare vuoto è fondamentale per i siti personali (user site), altrimenti i CSS si rompono.
+baseurl: ""
 
 last_updated: false
 impressum_path:
@@ -59,7 +58,7 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org (Per condivisione social bella su LinkedIn)
 # -----------------------------------------------------------------------------
-serve_og_meta: true # Attivato per migliorare l'anteprima dei link su LinkedIn
+serve_og_meta: true 
 serve_schema_org: true
 og_image: # Inserisci qui il nome di una tua foto in /assets/img/ se vuoi che appaia nelle preview
 

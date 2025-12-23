@@ -16,8 +16,8 @@ In scenarios like robotics, security, and smart manufacturing, observing an agen
 
 My PhD work focuses on applying **Deep Learning** to Automated Planning tasks. I developed novel neural architectures (published at **AAMAS**) that can infer goals from partial observations with high accuracy, even in noisy environments.
 
-* **Collaboration:** Research conducted at University of Brescia and **RWTH Aachen University** (Germany).
-* **Application:** Predictive maintenance, Human-Robot Interaction, Security monitoring.
+- **Collaboration:** Research conducted at University of Brescia and **RWTH Aachen University** (Germany).
+- **Application:** Predictive maintenance, Human-Robot Interaction, Security monitoring.
 
 ---
 

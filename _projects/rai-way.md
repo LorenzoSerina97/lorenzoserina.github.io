@@ -15,9 +15,9 @@ Rai Way, the owner of the Italian national television transmission network, need
 
 I designed and developed a **Virtual Conversational Agent** (Chatbot) integrated directly into the company's infrastructure.
 
-* **Tech Stack:** Natural Language Processing (NLP), Python, Enterprise Integration.
-* **Role:** Lead Developer (via BBS).
-* **Key Feature:** The system handles diverse user intents automatically, reducing the load on human operators.
+- **Tech Stack:** Natural Language Processing (NLP), Python, Enterprise Integration.
+- **Role:** Lead Developer (via BBS).
+- **Key Feature:** The system handles diverse user intents automatically, reducing the load on human operators.
 
 ### 📈 Result
 

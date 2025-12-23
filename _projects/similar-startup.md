@@ -15,8 +15,8 @@ SIMILAR is an innovative startup focused on digital accessibility and content an
 
 I managed the entire technical direction, developing over **5 functional prototypes** and bringing 2 commercial products to deployment.
 
-* **Core Tech:** Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), Computer Vision.
-* **Architecture:** Designed scalable pipelines to process complex unstructured data.
+- **Core Tech:** Large Language Models (LLMs), RAG (Retrieval-Augmented Generation), Computer Vision.
+- **Architecture:** Designed scalable pipelines to process complex unstructured data.
 
 ### 🏆 Recognition
 

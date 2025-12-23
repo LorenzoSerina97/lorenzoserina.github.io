@@ -34,9 +34,9 @@ Unlike traditional developers, I combine **academic rigor** with **production ex
 
 ### 🚀 How I can help your business:
 
-* **R&D & Prototyping:** I build **MVPs** and production-ready systems using LLMs (RAG), Computer Vision, and Predictive Models.
-* **Corporate Training:** I upskill technical teams with custom workshops on **Generative AI**, Python, and Software Architecture.
-* **Strategic Consulting:** Feasibility studies and architectural design for complex AI integrations.
+- **R&D & Prototyping:** I build **MVPs** and production-ready systems using LLMs (RAG), Computer Vision, and Predictive Models.
+- **Corporate Training:** I upskill technical teams with custom workshops on **Generative AI**, Python, and Software Architecture.
+- **Strategic Consulting:** Feasibility studies and architectural design for complex AI integrations.
 
 _Looking for an expert to validate your AI idea or train your team?_
 [**📩 Contact me for a Discovery Call**](mailto:lorenzo.serina97@gmail.com)
